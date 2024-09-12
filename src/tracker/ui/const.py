@@ -1,0 +1,1 @@
+LARGEFONT = ("Verdana", 35)
